@@ -1,0 +1,33 @@
+.logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 25vh;
+    width: 100%;
+    font-size: 7rem;
+    letter-spacing: 1rem;
+  }
+  
+  @media (max-width: 768px) { /* Breakpoint for small screens (sm) */
+    .logo{
+      flex-direction: column-reverse;
+      text-align: center;
+    }
+  }
+
+  .alanLogo {
+    height: 27vmin;
+    border-radius: 15%;
+    padding: 0 5%;
+    margin: 3% 0;
+  }
+  
+  @media (max-width: 768px) { /* Breakpoint for small screens (sm) */
+    .logo{
+      display: flex;
+      flex-direction: row;
+      font-size: 4rem;
+      letter-spacing: 0;
+      height: 20vh;
+    }
+  }
