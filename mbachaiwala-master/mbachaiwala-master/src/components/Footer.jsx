@@ -124,7 +124,11 @@ const Footer = () => {
           <a href="tel: +91722905222">+91722905222</a>
         </div>
 
+<<<<<<< HEAD
       
+=======
+       
+>>>>>>> a5f0026dbcd8f173ebc81d90a1ee84ff1000e17e
       </footer>
       <div className="footer"></div>
     </>
