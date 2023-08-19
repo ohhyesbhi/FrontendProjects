@@ -124,7 +124,7 @@ const Footer = () => {
           <a href="tel: +91722905222">+91722905222</a>
         </div>
 
-        <p>© COPYRIGHT 2022 MBA CHAIWALA. MADE BY</p>
+      
       </footer>
       <div className="footer"></div>
     </>
